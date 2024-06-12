@@ -1,5 +1,5 @@
 # FLUTTER: Dynamic Theming with Hydrated Bloc & Cubit (Persist User Preference!) | Flutter BLOC
-[Watch on YouTube](https://youtu.be/OYtI2UuaIpQ)
+### [Watch on YouTube](https://youtu.be/OYtI2UuaIpQ)
 [![Main](https://img.youtube.com/vi/OYtI2UuaIpQ/0.jpg)](https://www.youtube.com/watch?v=OYtI2UuaIpQ)
 ## Overview
 Welcome to the Dynamic Theming with Hydrated Bloc & Cubit repository! This project demonstrates how to implement dynamic theming in Flutter using Hydrated Bloc and Cubit to persist user preferences seamlessly. If you're looking to enhance your Flutter applications with state management and persistent theming, you're in the right place.
